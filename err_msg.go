@@ -1,5 +1,7 @@
 package errormessage
 
+// following these are errors
+
 const ErrRefreshToken = "refresh token is sinvalid  login again "
 const ErrGetDB = "error in retriving data from database"
 const ErrWriteDB = "error in writing data to database"
