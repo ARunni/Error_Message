@@ -1,5 +1,8 @@
 package errormessage
 
+
+//error messages
+
 const DbErr = "Data base error"
 const NoAuth = "no auth head provided"
 const SplitErr = "error in splitting"
